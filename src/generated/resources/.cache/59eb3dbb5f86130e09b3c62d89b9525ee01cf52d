@@ -1,6 +1,13 @@
-// 1.19.4	2023-04-23T15:20:56.3266234	Loot Tables
+// 1.19.4	2023-04-23T17:22:55.0369705	Loot Tables
 5ce336d996c4867d29822cfd2c03c501890d67a6 data/yeetmod/loot_tables/blocks/black_opal_block.json
 9fc92cc8db67c6ce9f6491148a497f6538ed01cd data/yeetmod/loot_tables/blocks/black_opal_ore.json
 150c9bc0a04c0f43e01ece2f6a1f6867c4f207d6 data/yeetmod/loot_tables/blocks/deepslate_black_opal_ore.json
+f042743efb33678ce395fc9d49eaa91a2d62657d data/yeetmod/loot_tables/blocks/ebony_leaves.json
+9ccd851ec376cd152f9e4372a6cafa7d8973357b data/yeetmod/loot_tables/blocks/ebony_log.json
+617ac0d691bc54737457f7f9a083ccfbb4c8541c data/yeetmod/loot_tables/blocks/ebony_planks.json
+0a31056920ead439b83753ea128624bc730e1ea9 data/yeetmod/loot_tables/blocks/ebony_sapling.json
+8484e9ecbeda65df2a36e559414e8ee2cc416d1a data/yeetmod/loot_tables/blocks/ebony_wood.json
 01a9340fe633a576f1c9060b74f9fdb7df5def9e data/yeetmod/loot_tables/blocks/endstone_black_opal_ore.json
 e3a860016c1625bfaae8dd9fe06722ad5b47da7d data/yeetmod/loot_tables/blocks/netherrack_black_opal_ore.json
+2827f819445e8c356c9763aa343411fcde84af0d data/yeetmod/loot_tables/blocks/stripped_ebony_log.json
+1ed8282ff93a91237ce9efd8eb7e738af790a933 data/yeetmod/loot_tables/blocks/stripped_ebony_wood.json
