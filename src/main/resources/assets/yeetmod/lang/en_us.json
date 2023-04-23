@@ -8,6 +8,13 @@
   "block.yeetmod.netherrack_black_opal_ore": "Netherrack Black Opal Ore",
   "block.yeetmod.endstone_black_opal_ore": "Endstone Black Opal Ore",
 
+  "block.yeetmod.ebony_planks": "Ebony Planks",
+  "block.yeetmod.ebony_log": "Ebony Log",
+  "block.yeetmod.ebony_wood": "Ebony Wood",
+  "block.yeetmod.ebony_leaves": "Ebony Leaves",
+  "block.yeetmod.ebony_sapling": "Ebony Sapling",
+  "block.yeetmod.stripped_ebony_log": "Stripped Ebony Log",
+  "block.yeetmod.stripped_ebony_wood": "Stripped Ebony Wood",
 
   "creativemodetab.yeet_tab": "Yeet Tab"
 }

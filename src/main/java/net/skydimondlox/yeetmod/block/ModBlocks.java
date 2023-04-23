@@ -17,6 +17,7 @@ import net.minecraftforge.registries.RegistryObject;
 import net.skydimondlox.yeetmod.Yeetmod;
 import net.skydimondlox.yeetmod.block.custom.ModFlammableRotatedPillarBlock;
 import net.skydimondlox.yeetmod.item.ModItems;
+import net.skydimondlox.yeetmod.worldgen.tree.EbonyTreeGrower;
 
 import java.util.function.Supplier;
 
@@ -94,7 +95,7 @@ public class ModBlocks {
             });
 
     public static final  RegistryObject<Block> EBONY_SAPLING = registerBlock("ebony_sapling",
-            () -> new SaplingBlock(null, BlockBehaviour.Properties.copy(Blocks.OAK_SAPLING)));
+            () -> new SaplingBlock(new EbonyTreeGrower(), BlockBehaviour.Properties.copy(Blocks.OAK_SAPLING)));
 
 
 
