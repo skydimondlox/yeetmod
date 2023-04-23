@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "yeetmod:black_opal_ore",
+    "yeetmod:deepslate_black_opal_ore",
+    "yeetmod:netherrack_black_opal_ore",
+    "yeetmod:endstone_black_opal_ore",
+    "yeetmod:black_opal_block"
+  ]
+}
