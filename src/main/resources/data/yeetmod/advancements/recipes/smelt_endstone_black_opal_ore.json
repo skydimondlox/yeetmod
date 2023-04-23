@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "endblkoplore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "yeetmod:endstone_black_opal_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "endblkoplore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "yeetmod:black_opal_from_smelting_endstone_black_opal_ore"
+    ]
+  }
+}

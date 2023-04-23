@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "rawblkoplore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "yeetmod:raw_black_opal"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "rawblkoplore"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "yeetmod:black_opal_from_smelting_raw_black_opal"
+    ]
+  }
+}

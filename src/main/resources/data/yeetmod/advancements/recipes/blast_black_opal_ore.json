@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "blkoploreblst": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "yeetmod:black_opal_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "blkoploreblst"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "yeetmod:black_opal_from_blasting_black_opal_ore"
+    ]
+  }
+}

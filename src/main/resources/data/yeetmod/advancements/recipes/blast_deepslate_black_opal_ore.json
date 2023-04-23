@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "depblkoploreblst": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "yeetmod:deepslate_black_opal_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "depblkoploreblst"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "yeetmod:black_opal_from_blasting_deepslate_black_opal_ore"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "ntrblkoploreblst": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "yeetmod:netherrack_black_opal_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "ntrblkoploreblst"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "yeetmod:black_opal_from_blasting_netherrack_black_opal_ore"
+    ]
+  }
+}
